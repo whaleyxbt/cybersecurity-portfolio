@@ -24,7 +24,7 @@ A security audit of the `petals.farm` client-side assets has identified a critic
 
 **Leaked Credentials (redacted):**
 
-- **Alchemy Key:** `WMxxxxZBgoxxxxxxx
+- **Alchemy Key:** `WMxxxxZBgoxxxxxxx`
     
 - **Infura Key:** `5d2326xxxxx62c91b1xxxxxxxx`
     
